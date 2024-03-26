@@ -7,7 +7,7 @@ const Resume = () => {
             <div class="row">
 
                 <div class="col-lg-6 col-12">
-                  <h2 class="mb-4">Experiences</h2>
+                  <h2 class="mb-4">Responsibilities</h2>
 
                     <div class="timeline">
                         <div class="timeline-wrapper">
@@ -15,8 +15,9 @@ const Resume = () => {
                                   <span>2019</span>
                              </div>
                              <div class="timeline-info">
-                                  <h3><span>Project Manager</span><small>Best Studio</small></h3>
-                                  <p>Proin ornare non purus ut rutrum. Nulla facilisi. Aliquam laoreet libero ac pharetra feugiat. Cras ac fermentum nunc, a faucibus nunc.</p>
+                                  <h3><span>Joint Secretary</span><small>BMSCE IEEE, Bangalore</small></h3>
+                                  <p>Seamlessly juggled the responsibilities of an event manager and a website handler, ensuring flawless
+coordination and online presence for successful events.</p>
                              </div>
                         </div>
 
@@ -25,8 +26,9 @@ const Resume = () => {
                                 <span>2018</span>
                             </div>
                             <div class="timeline-info">
-                                <h3><span>UX Designer</span><small>Digital Ace</small></h3>
-                                <p>Fusce rutrum augue id orci rhoncus molestie. Nunc auctor dignissim lacus vel iaculis.</p>
+                                <h3><span>Event Organizer</span><small>BMSCE ISE Student Club, Bangalore</small></h3>
+                                <p>Pioneered a series of successful events for our club, each one a resounding triumph, with colossal
+crowds of over 100 attendees.</p>
                             </div>
                         </div>
 
@@ -35,18 +37,22 @@ const Resume = () => {
                                 <span>2016</span>
                             </div>
                             <div class="timeline-info">
-                                <h3><span>UI Freelancer</span></h3>
-                                <p>Sed fringilla vitae enim sit amet cursus. Sed cursus dictum tortor quis pharetra. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+                                <h3>
+                                    <span>Junior Graphic Designer</span>
+                                    <small>BMSCE PHASESHIFT, Bangalore</small>
+                                </h3>
+                                <p>Infused the college fest's online presence with captivating visuals, setting the stage for a visually
+stunning and engaging experience.</p>
                             </div>
                         </div>
                         
                         <div class="timeline-wrapper">
                             <div class="timeline-yr">
-                                <span>2014</span>
+                                <span>2022-23</span>
                             </div>
                             <div class="timeline-info">
-                                <h3><span>Junior Designer</span><small>Crafted Co.</small></h3>
-                                <p>Cras scelerisque scelerisque condimentum. Nullam at volutpat mi. Nunc auctor ipsum eget magna consequat viverra.</p>
+                                <h3><span>Graphic Designer</span><small>BMSCE ISE Student Club, Bangalore</small></h3>
+                                <p>Ideated eye-catching visualsith dynamic and memorable design work.</p>
                             </div>
                         </div>
 
@@ -54,36 +60,36 @@ const Resume = () => {
                 </div>
 
                 <div class="col-lg-6 col-12">
-                  <h2 class="mb-4 mobile-mt-2">Educations</h2>
+                  <h2 class="mb-4 mobile-mt-2">Education</h2>
 
                     <div class="timeline">
                         <div class="timeline-wrapper">
                              <div class="timeline-yr">
-                                  <span>2017</span>
+                                  <span>2021-now</span>
                              </div>
                              <div class="timeline-info">
-                                  <h3><span>Mobile Web</span><small>Master Design</small></h3>
-                                  <p>Please tell your friends about Tooplate website. That would be very helpful. We need your support.</p>
+                                  <h3><span>Information Science and Engg</span><small>B.E. CGPA: 8.5</small></h3>
+                                  <p>B.M.S. College of Engineering, Bangalore, Karnataka</p>
                              </div>
                         </div>
 
                         <div class="timeline-wrapper">
                             <div class="timeline-yr">
-                                <span>2015</span>
+                                <span>2019-21</span>
                             </div>
                             <div class="timeline-info">
-                                <h3><span>User Interfaces</span><small>Creative Agency</small></h3>
-                                <p><a rel="nofollow" href="https://www.facebook.com/tooplate">Tooplate</a> is a great website to download HTML templates without any login or email.</p>
+                                <h3><span>12th Standard - PCMCs</span><small>99%</small></h3>
+                                <p>BIPS PU Science College - Bagalkote, Karnataka</p>
                             </div>
                         </div>
                         
                         <div class="timeline-wrapper">
                             <div class="timeline-yr">
-                                <span>2013</span>
+                                <span>2019</span>
                             </div>
                             <div class="timeline-info">
-                                <h3><span>Artwork Design</span><small>New Art School</small></h3>
-                                <p>You can freely use Tooplate's templates for your business or personal sites. You cannot redistribute this template without a permission.</p>
+                                <h3><span>10th Standard – CBSE</span><small>93.4%</small></h3>
+                                <p>Basaveshwara International Public School (CBSE) – Bagalkote, Karnataka</p>
                             </div>
                         </div>
 
