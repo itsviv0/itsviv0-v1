@@ -20,7 +20,13 @@ This is the source code for Vivek Sindagi's portfolio website. The website showc
     ```sh
     cd itsviv0-v1
     ```
-3. Install the dependencies:
+
+3. Check the node version:
+    ```sh
+    nvm use
+    ```
+
+4. Install the dependencies:
     ```sh
     npm install
     ```
