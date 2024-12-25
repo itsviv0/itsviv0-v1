@@ -8,17 +8,14 @@ This is the source code for Vivek Sindagi's portfolio website. The website showc
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
-- [License](#license)
 
 ## Installation
 
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
-    ```
+   
 2. Navigate to the project directory:
     ```sh
-    cd your-repo-name
+    cd itsviv0-v1
     ```
 3. Install the dependencies:
     ```sh
@@ -30,3 +27,17 @@ This is the source code for Vivek Sindagi's portfolio website. The website showc
 To start the development server, run:
 ```sh
 npm start
+```
+To build the application for production, run:
+```sh
+npm run build
+```
+
+## Technologies Used
+
+- React
+- JavaScript
+- HTML
+- CSS
+- SCSS
+- Firebase
