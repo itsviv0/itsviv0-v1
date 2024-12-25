@@ -12,6 +12,9 @@ This is the source code for Vivek Sindagi's portfolio website. The website showc
 ## Installation
 
 1. Clone the repository:
+     ```sh
+    git clone https://github.com/your-user-name/itsviv0-v1.git
+    ```
    
 2. Navigate to the project directory:
     ```sh
