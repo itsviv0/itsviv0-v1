@@ -1,4 +1,4 @@
-# Vivek Sindagi Portfolio
+# Vivek Sindagi Portfolio - v1
 
 This is the source code for Vivek Sindagi's portfolio website. The website showcases projects, resume, and other relevant information.
 
