@@ -33,6 +33,34 @@ To build the application for production, run:
 npm run build
 ```
 
+## Project Structure
+
+```
+.gitignore
+build/
+public/
+    ├── css/
+    ├── font/
+    ├── images/
+    ├── js/
+    ├── sass/
+    └── index.html
+src/
+    ├── components/
+    │   ├── About.js
+    │   ├── Footer.js
+    │   ├── Resume.js
+    |   └── Skills.js
+    ├── App.css
+    ├── App.js
+    ├── App.test.js
+    ├── index.css
+    └── index.js
+firebaseConfig.js
+package.json
+README.md
+```
+
 ## Technologies Used
 
 - React
